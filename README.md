@@ -26,6 +26,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-maulana-16ba062ab/">LinkedIn</a>
-- <a href="https://portofoliomuhammadmaulana.vercel.app/">mmaulana</a>
+- <a href="https://portofoliomuhammadmaulana.vercel.app/">mmaulana.dev</a>
+
 - lanas9066@gmail.com
 - <a href="https://www.instagram.com/maulana_has229/">Instagram</a>
