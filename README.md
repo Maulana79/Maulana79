@@ -30,7 +30,7 @@ src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="21px" 
-src="https://upload.wikimedia.org/wikipedia/commons/5/58/Phaser_Logo.png" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
   <br>
   <br>
   
