@@ -21,7 +21,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a
 src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" /></a>
   <a href="https://dotnet.microsoft.com/"><img align="left" alt=".NET" title=".NET" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" 
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="32px" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
@@ -29,7 +29,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="28px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="34px" 
+  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="30px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
   <br>
   <br>
