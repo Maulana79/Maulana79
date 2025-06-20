@@ -25,11 +25,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg
 src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" 
+  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="18px" 
 src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="28px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="40px" 
+  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="34px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
   <br>
   <br>
