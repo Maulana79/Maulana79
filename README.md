@@ -44,7 +44,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-maulana-16ba062ab/">LinkedIn</a>
-- <a href="https://portofoliomuhammadmaulana.vercel.app/">mmaulana.dev</a>
+- <a href="https://portofoliomuhammadmaulana.vercel.app/">Website</a>
 
 - lanas9066@gmail.com
 - <a href="https://www.instagram.com/maulana_has229/">Instagram</a>
