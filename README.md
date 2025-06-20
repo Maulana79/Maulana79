@@ -17,7 +17,7 @@ src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" title="C#" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
-  <a href="https://unity.com/"><img align="left" alt="Unity Engine" title="Unity Engine" width="28px" 
+  <a href="https://unity.com/"><img align="left" alt="Unity Engine" title="Unity Engine" width="40px" 
 src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" /></a>
   <a href="https://dotnet.microsoft.com/"><img align="left" alt=".NET" title=".NET" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" /></a>
