@@ -29,7 +29,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="28px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="21px" 
+  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="40px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
   <br>
   <br>
