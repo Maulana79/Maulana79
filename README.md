@@ -17,10 +17,20 @@ src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" title="C#" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
-  <a href="https://unity.com/"><img align="left" alt="Unity Engine" title="Unity Engine" width="50px" 
+  <a href="https://unity.com/"><img align="left" alt="Unity Engine" title="Unity Engine" width="56px" 
 src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" /></a>
   <a href="https://dotnet.microsoft.com/"><img align="left" alt=".NET" title=".NET" width="21px" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" 
+src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+  <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/5/58/Phaser_Logo.png" /></a>
   <br>
   <br>
   
