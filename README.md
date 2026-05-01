@@ -31,8 +31,12 @@ src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="30px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
-  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Phaser JS" width="30px" 
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django" width="30px" 
 src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="30px" 
+src="https://go.dev/images/go-logo-white.svg" /></a>
+  <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="30px" 
+src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
   <br>
   <br>
   
