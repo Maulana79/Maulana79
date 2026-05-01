@@ -31,6 +31,8 @@ src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></a>
 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <a href="https://phaser.io/"><img align="left" alt="Phaser JS" title="Phaser JS" width="30px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaser_Logo.png" /></a>
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Phaser JS" width="30px" 
+src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" /></a>
   <br>
   <br>
   
