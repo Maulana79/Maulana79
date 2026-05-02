@@ -37,6 +37,8 @@ src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" /></a>
 src="https://go.dev/images/go-logo-white.svg" /></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="30px" 
 src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="30px" 
+src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_icon_%282016-2021%29.svg" /></a>
   <br>
   <br>
   
